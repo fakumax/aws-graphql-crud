@@ -7,3 +7,4 @@ npm run dev
 # or
 yarn dev
 ```
+This example has build with, nextjs and tailwindcss, and formik
